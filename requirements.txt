@@ -1,0 +1,12 @@
+mediapipe==0.10.14
+opencv-python==4.10.0.84
+numpy<2
+pandas
+scikit-learn==1.5.2
+joblib
+matplotlib
+seaborn
+pyautogui
+streamlit
+pytest
+pycaw; sys_platform == 'win32'

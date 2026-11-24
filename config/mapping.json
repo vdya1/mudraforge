@@ -1,0 +1,11 @@
+{
+  "arm_gesture": "open_palm",
+  "arm_hold_seconds": 1.5,
+  "mapping": {
+    "point": "next_slide",
+    "peace": "prev_slide",
+    "fist": "play_pause",
+    "thumbs_up": "volume_up",
+    "thumbs_down": "volume_down"
+  }
+}
